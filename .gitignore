@@ -1,0 +1,10 @@
+# IDES and Editors
+/.idea
+.project
+.classpath
+*.launch
+.settings/
+
+
+# Project exclude paths
+/venv/

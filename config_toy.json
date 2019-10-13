@@ -1,0 +1,11 @@
+{
+  "app": {
+    "name": "solado",
+    "port": ":8090"
+  },
+  "database": {
+    "driver" : "sqlite",
+    "data_source": "",
+    "data_slave_source": ""
+  }
+}
